@@ -1,0 +1,20 @@
+
+table {
+	border-collapse: collapse;
+	border: 1px solid #CCC;
+
+	 }
+	 td, th{
+	 	padding: 40px;
+	 	font-family: arial;text-decoration: none;font-weight: 600px;color: #929292;
+	 }
+	 th{
+	 	background: #111;
+	 	color: gray;
+	 	text-align: center;
+	 }
+	 td {
+	 	text-align: center;
+	 	color: black;
+	 	
+	 }
